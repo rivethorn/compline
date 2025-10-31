@@ -39,7 +39,7 @@ Compline is a homage to Nord, Everforest, and the monotone colorscheme - reducin
 ## Finished Themes:
 - [Doom Emacs](https://github.com/jblais493/compline/tree/main/doom%20emacs)
 - [Kitty](https://github.com/jblais493/compline/tree/main/kitty) 
-- [Heliboard (Android)]()
+- [Heliboard (Android)](https://github.com/jblais493/compline/tree/main/heliboard)
 - [btop](https://github.com/jblais493/compline/tree/main/btop)
 - [SwayNC](https://github.com/jblais493/compline/tree/main/swaync) 
 - Stylix in nixOS
