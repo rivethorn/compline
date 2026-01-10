@@ -67,27 +67,40 @@ Thus this is a homage to Nord, Everforest, and various monotone colorschemes - b
     
 
 ## Finished Themes:
-- [Alacritty](https://github.com/jblais493/compline/tree/main/alacritty)
-- [bat](https://github.com/jblais493/compline/tree/main/bat) 
-- [btop](https://github.com/jblais493/compline/tree/main/btop)
-- [Doom Emacs](https://github.com/jblais493/compline/tree/main/doom%20emacs)
+- [alacritty](https://github.com/joshuablais/compline/tree/main/alacritty)
+- [bat](https://github.com/joshuablais/compline/tree/main/bat) 
+- [btop](https://github.com/joshuablais/compline/tree/main/btop)
+- [doom emacs](https://github.com/joshuablais/compline/tree/main/doom%20emacs)
+- [edge](https://github.com/joshuablais/compline/tree/main/edge)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/compline/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) 
-- [Foot](https://github.com/jblais493/compline/tree/main/foot)
-- [Heliboard (Android)](https://github.com/jblais493/compline/tree/main/heliboard)
-- [Kitty](https://github.com/jblais493/compline/tree/main/kitty) 
-- [Lualine](https://github.com/jblais493/compline/tree/main/lualine)
-- [MPV](https://github.com/jblais493/compline/tree/main/mpv) 
-- [Neovim](https://github.com/jblais493/compline/tree/main/nvim)
-- [Stylix in nixOS](https://github.com/jblais493/compline/tree/main/nixos)
+- [flow launcer](https://github.com/joshuablais/compline/tree/main/flow-launcher)
+- [foliate](https://github.com/joshuablais/compline/tree/main/foliate)
+- [Foot](https://github.com/joshuablais/compline/tree/main/foot)
+- [ghostty](https://github.com/joshuablais/compline/tree/main/ghostty)
+- [Heliboard (Android)](https://github.com/joshuablais/compline/tree/main/heliboard)
+- [helix](https://github.com/joshuablais/compline/tree/main/helix)
+- [iceWM](https://github.com/joshuablais/compline/tree/main/icewm)
+- [Kitty](https://github.com/joshuablais/compline/tree/main/kitty) 
+- [Lualine](https://github.com/joshuablais/compline/tree/main/lualine)
+- [MPV](https://github.com/joshuablais/compline/tree/main/mpv) 
+- [Neovim](https://github.com/joshuablais/compline/tree/main/nvim)
+- [oh-my-posh](https://github.com/joshuablais/compline/tree/main/oh-my-posh)
+- [ptyxis](https://github.com/joshuablais/compline/tree/main/ptyxis)
+- [slack](https://github.com/joshuablais/compline/tree/main/slack)
+- [starship](https://github.com/joshuablais/compline/tree/main/starship)
+- [Stylix in nixOS](https://github.com/joshuablais/compline/tree/main/nixos)
   - GTK/QT
   - Thunar
-- [SwayNC](https://github.com/jblais493/compline/tree/main/swaync) 
-- [Termux](https://github.com/jblais493/compline/tree/main/termux)
-- [Thunderbird](https://github.com/jblais493/compline/tree/main/thunderbird) 
-- [VSCode](https://github.com/jblais493/compline/tree/main/vscode)
-- [Waybar](https://github.com/jblais493/compline/tree/main/waybar) 
-- [Zathura](https://github.com/jblais493/compline/tree/main/zathura) 
-- [Zed](https://github.com/jblais493/compline/tree/main/zed)
+- [SwayNC](https://github.com/joshuablais/compline/tree/main/swaync) 
+- [Termux](https://github.com/joshuablais/compline/tree/main/termux)
+- [Thunderbird](https://github.com/joshuablais/compline/tree/main/thunderbird) 
+- [vimiumC](https://github.com/joshuablais/compline/tree/main/vimium-c)
+- [VSCode](https://github.com/joshuablais/compline/tree/main/vscode)
+- [Waybar](https://github.com/joshuablais/compline/tree/main/waybar) 
+- [windows terminal](https://github.com/joshuablais/compline/tree/main/windows-terminal)
+- [wofi](https://github.com/joshuablais/compline/tree/main/wofi)
+- [Zathura](https://github.com/joshuablais/compline/tree/main/zathura) 
+- [Zed](https://github.com/joshuablais/compline/tree/main/zed)
 
 ## Special thanks:
 - [Matthew-K310](https://github.com/Matthew-K310) - for nvim port
@@ -95,3 +108,11 @@ Thus this is a homage to Nord, Everforest, and various monotone colorschemes - b
 - [rivethorn](https://github.com/rivethorn) - for ghostty and vscode ports
 - [camilo-zuluaga](https://github.com/camilo-zuluaga) - for lualine port
 - [Moshyfawn](https://github.com/Moshyfawn) - for zed port
+- [alternateved](https://github.com/alternateved) - for foot port
+- [JeffGila](https://github.com/JeffGila) - for helix port
+- [xiiixvv](https://github.com/xiiixvv) - for IceWM port
+- [maulrman](https://github.com/maulrman) - for ptyxis port
+- [ekewn](https://github.com/ekewn) - for windows apps port (MS edge, slack, windows terminal, vimiumC, flow)
+- [DanielPonte01](https://github.com/DanielPonte01) - for Foliate port 
+- [PyDevC](https://github.com/PyDevC) - for Treesitter highlighting in neovim 
+- [venttarc](https://github.com/venttarc) - for termux port
